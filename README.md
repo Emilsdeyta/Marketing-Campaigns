@@ -1,4 +1,4 @@
-# 📊 Marketing Campaigns — Causal Inference Analysis
+# 📊 Marketing Campaigns Causal Inference Analysis
 
 A causal inference project that measures the **true impact** of marketing campaigns using observational sales data.
 
@@ -33,8 +33,3 @@ How much did the marketing campaigns actually drive sales? Rather than relying o
 
 The attributable sales lift from the campaign is quantified across three independent causal methods, with cross-method comparison to validate robustness.
 
----
-
-## 📄 License
-
-MIT
