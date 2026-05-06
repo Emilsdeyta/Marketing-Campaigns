@@ -20,6 +20,26 @@ How much did the marketing campaigns actually drive sales? Rather than relying o
 
 ---
 
+## 📁 Structure
+
+```
+Marketing-Campaigns/
+│
+├── notebooks/
+│   └── Marketing_Campaigns.ipynb   # Main analysis notebook
+│
+├── README.md
+└── LICENSE
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+pip install econml scikit-learn pandas numpy matplotlib seaborn
+```
+
 ---
 
 ## 🛠️ Libraries Used
